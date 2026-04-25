@@ -1,0 +1,16 @@
+D:\Rabota\C#\CeneticEnergy\CeneticEnergy\bin\Debug\net10.0-windows7.0\CeneticEnergy.exe
+D:\Rabota\C#\CeneticEnergy\CeneticEnergy\bin\Debug\net10.0-windows7.0\CeneticEnergy.deps.json
+D:\Rabota\C#\CeneticEnergy\CeneticEnergy\bin\Debug\net10.0-windows7.0\CeneticEnergy.runtimeconfig.json
+D:\Rabota\C#\CeneticEnergy\CeneticEnergy\bin\Debug\net10.0-windows7.0\CeneticEnergy.dll
+D:\Rabota\C#\CeneticEnergy\CeneticEnergy\bin\Debug\net10.0-windows7.0\CeneticEnergy.pdb
+D:\Rabota\C#\CeneticEnergy\CeneticEnergy\obj\Debug\net10.0-windows7.0\CeneticEnergy.Form1.resources
+D:\Rabota\C#\CeneticEnergy\CeneticEnergy\obj\Debug\net10.0-windows7.0\CeneticEnergy.csproj.GenerateResource.cache
+D:\Rabota\C#\CeneticEnergy\CeneticEnergy\obj\Debug\net10.0-windows7.0\CeneticEnergy.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rabota\C#\CeneticEnergy\CeneticEnergy\obj\Debug\net10.0-windows7.0\CeneticEnergy.AssemblyInfoInputs.cache
+D:\Rabota\C#\CeneticEnergy\CeneticEnergy\obj\Debug\net10.0-windows7.0\CeneticEnergy.AssemblyInfo.cs
+D:\Rabota\C#\CeneticEnergy\CeneticEnergy\obj\Debug\net10.0-windows7.0\CeneticEnergy.csproj.CoreCompileInputs.cache
+D:\Rabota\C#\CeneticEnergy\CeneticEnergy\obj\Debug\net10.0-windows7.0\CeneticEnergy.dll
+D:\Rabota\C#\CeneticEnergy\CeneticEnergy\obj\Debug\net10.0-windows7.0\refint\CeneticEnergy.dll
+D:\Rabota\C#\CeneticEnergy\CeneticEnergy\obj\Debug\net10.0-windows7.0\CeneticEnergy.pdb
+D:\Rabota\C#\CeneticEnergy\CeneticEnergy\obj\Debug\net10.0-windows7.0\CeneticEnergy.genruntimeconfig.cache
+D:\Rabota\C#\CeneticEnergy\CeneticEnergy\obj\Debug\net10.0-windows7.0\ref\CeneticEnergy.dll
