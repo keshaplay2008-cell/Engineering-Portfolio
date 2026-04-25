@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Collision\Collision.csproj" />
+    <ProjectReference Include="..\Geometry_2D\Geometry_2D.csproj" />
+    <ProjectReference Include="..\Geometry_3D\Geometry_3D.csproj" />
+    <ProjectReference Include="..\PhisAxeomes\PhisAxeomes.csproj" />
+  </ItemGroup>
+
+</Project>
