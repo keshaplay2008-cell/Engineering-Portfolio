@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="OpenTK" Version="4.7.7" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Collision\Collision.csproj" />
+    <ProjectReference Include="..\Geometry_2D\Geometry_2D.csproj" />
+    <ProjectReference Include="..\Geometry_3D\Geometry_3D.csproj" />
+    <ProjectReference Include="..\PhisAxeomes\PhisAxeomes.csproj" />
+    <ProjectReference Include="..\PhisGame\PhisGame.csproj" />
+    <ProjectReference Include="..\PhisModel\PhisModel.csproj" />
+  </ItemGroup>
+
+</Project>
